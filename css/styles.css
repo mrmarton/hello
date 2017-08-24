@@ -118,7 +118,7 @@ HEADER
 .avatar img {
   float: right;
   border-radius: 50%;
-  width: 5%;
+  width: 25px;
 }
 
 /*========================
